@@ -2,17 +2,17 @@
 
 ## Objectives
 
-- [Setting up the cache](Setting-up-the-cache)
-- [Memcached](Memcached)
-- [DataBase Caching](DataBase-Caching)
-- [Filesystem caching](Filesystem-caching)
-- [Local-memory caching](Local-memory-caching)
-- [Dummy caching for development](Dummy-caching-(for-development))
-- [Using a custom cache backend](Using-a-custom-cache-backend)
-- [The per-site cache](The-per-site-cache)
-- [The per-view cache](The-per-view-cache)
-- [Template fragment caching](Template-fragment-caching)
-- [The low-level cache API](The-low-level-cache-API)
+- [Setting up the cache](#Setting-up-the-cache)
+- [Memcached](#Memcached)
+- [DataBase Caching](#DataBase-Caching)
+- [Filesystem caching](#Filesystem-caching)
+- [Local-memory caching](#Local-memory-caching)
+- [Dummy caching for development](#Dummy-caching-(for-development))
+- [Using a custom cache backend](#Using-a-custom-cache-backend)
+- [The per-site cache](#The-per-site-cache)
+- [The per-view cache](#The-per-view-cache)
+- [Template fragment caching](#Template-fragment-caching)
+- [The low-level cache API](#The-low-level-cache-API)
 
 Django comes with a robust cache system that lets you save dynamic pages so they don’t have to be calculated for each request.
 
